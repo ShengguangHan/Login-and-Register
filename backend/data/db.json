@@ -1,0 +1,24 @@
+{
+  "user": [
+    {
+      "name": "William",
+      "password": "$2b$07$hNnvILm.cgqGDuP4el6Hf.L6RwWTtVYQ0EEA/UcX0GUUeZpw8N4WO",
+      "id": 1
+    },
+    {
+      "name": "Alice",
+      "password": "$2b$07$Sm7mAiZlkfB0gzkP3TJ2Me5aq0n.qm1RS/zCvo4E6GhsHlXsygy1y",
+      "id": 2
+    }
+  ],
+  "bcrypt": [
+    {
+      "id": 1,
+      "saltRounds": 7
+    },
+    {
+      "id": 2,
+      "saltRounds": 6
+    }
+  ]
+}
